@@ -1,5 +1,5 @@
 * Key Light Control
-This repository includes several scripts to control Elgato Key Light conected lights. They are written in Python and use the module [[leglight][leglight]].
+This repository includes several scripts to control Elgato Key Light conected lights. They are written in Python and use the module [[https://pypi.org/project/leglight/][leglight]].
 
 Initial examples taken from the module documentation. They might evolve overtime :)
 
