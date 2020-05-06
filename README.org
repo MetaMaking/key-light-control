@@ -1,0 +1,7 @@
+* Key Light Control
+This repository includes several scripts to control Elgato Key Light conected lights. They are written in Python and use the module [[leglight][leglight]].
+
+Initial examples taken from the module documentation. They might evolve overtime :)
+
+** Setup instructions
+Run the script discover.py to locate your light IP address. Then modify the lights_on.py, lights_off.py to include the given IP address.
